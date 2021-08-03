@@ -5,7 +5,7 @@
 El server de la app [chat-app](https://github.com/jonathanleivag/chat-app)
 
 - [Nodejs](https://nodejs.org/es/)
-- [javascript](https://www.typescriptlang.org/)
+- javascript
 - [express](https://expressjs.com/)
 - [Graphql](https://graphql.org/)
 - [Apollo server](https://www.apollographql.com/)
